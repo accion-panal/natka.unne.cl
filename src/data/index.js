@@ -13,21 +13,20 @@ export const mainCarouselData = [
   },
   {
     id: 2,
-    title: 'Soluciones Inmobiliaria Region de Los Lagos',
-    desc: 'Soluciones reales en el proceso de venta, compra, arriendo...',
-    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689975271/Projects/unne/img/hero/financiamiento2.jpg',
+    title: 'Simplifica tus trámites legales con nuestros abogados inmobiliarios',
+    desc: ' Consulta por tu asesoría gratuita',
+    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1690837248/Projects/unne/img/Eres%20corredor/ERES_CORREDOR___SERVICIOS_LEGALES_rhfldh.webp',
   },
   {
     id: 3,
-    title: 'Soluciones Inmobiliaria Region de Los Lagos',
-    desc: 'Soluciones reales en el proceso de venta, compra, arriendo...',
+    title: 'Haz que tus ahorros crezcan un 15%',
+    desc: 'con inversión remate seguro',
     img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689974575/Projects/unne/img/hero/remate3.jpg',
-
   },
   {
     id: 4,
-    title: 'Soluciones Inmobiliaria Region de Los Lagos',
-    desc: 'Soluciones reales en el proceso de venta, compra, arriendo...',
-    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689974937/Projects/unne/img/hero/venta.jpg',
+    title: '¡Sácale provecho a tu propiedad!',
+    desc: 'Financiamos, Remodelamos y Vendemos',
+    img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1710428421/Projects/unne/img/Paginas%20web/fondo4_mnfey4.webp',
   },
 ];
